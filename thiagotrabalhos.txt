@@ -1,1 +1,4 @@
-
+Relação entre a LGPD  e as datas centers no Brasil:
+   - A LGPD é uma lei de proteção de dados pessoais, foi aprovada em 2018 com o número de 13.709 e entrando em vigência em 2020.
+   - Se existe processamento de conteúdo de pessoas, que estão no território nacional, independente de serem brasileiras ou não, a LGPD deverá ser cumprida.
+   - Para começar, deve adotar a medida Privacy by Design
