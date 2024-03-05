@@ -1,0 +1,24 @@
+Explique a diferença entre as 3 linguagens de programação:
+  - Existem diversas linguagens de programação, entretanto, as principais são a Python, Java e C++.
+  a) Python: Foi criada em 1991, é uma linguagem de programação  interpretada de alto nível. Ganha destaque por conta de sua sintaxe simples e legível, tornando-a uma das linguagens mais 
+fáceis de se aprender. Ela é usada normalmente no desenvolvimento de aplicações de web, análise de dados, inteligência artificial e machine learning.
+  b) Java: É uma linguagem de programação orientada a objetos. É uma linguagem robusta e portátil, isso significa que um programa Java pode ser executado em qualquer plataforma que tenha
+uma máquina virtual Java instalada. É frequenemente usado para desenvolvimento de aplicaçõs empresariais, jogos e aplicativos móveis.
+  c) C++: Criada em 1985, é uma linguagem de programação de alto nível. É conhecida por ser uma linguagem eficiente e poderosa, com suporte a programação orientada a objetos e genérica. Ela
+é usada para desenvolvimento de sistemas operacionais, jogos, aplicações de desktop e dispositivos embarcados. 
+
+  Tente fazer um código mínimo em cada uma delas
+  - Python: print("Hello, world!")
+  - Java: public class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello, world!");
+    }
+}
+   - C++: #include <iostream>
+
+int main() {
+    std::cout << "Hello, world!" << std::endl;
+    return 0;
+}
+
+Esses são programas simples que imprimem "Hello, world!" quando são executados.
