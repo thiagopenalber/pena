@@ -1,4 +1,15 @@
 Relação entre a LGPD  e as datas centers no Brasil:
-   - A LGPD é uma lei de proteção de dados pessoais, foi aprovada em 2018 com o número de 13.709 e entrando em vigência em 2020.
-   - Se existe processamento de conteúdo de pessoas, que estão no território nacional, independente de serem brasileiras ou não, a LGPD deverá ser cumprida.
-   - Para começar, deve adotar a medida Privacy by Design
+  - A Lei Geral de Proteção de Dados (LGPD) entrou em vigor no Brasil em 2020 com o objetivo de regulamentar o uso de dados por empresas e organizações em todo o país. Com isso, as empresas tem que adaptar às novas normas de proteção de dados e garantir que seus sistemas de armazenamento estejam em conformidade com as regulamentações da LGPD.
+    Os Data Center são essenciais no desempenho da garantia da conformidade com a LGPD, haja vista que são os responsáveis pelo armazenamento seguro e confiável dos dados pessoais das empresas. 
+    Resumindo, a relação entre a LGPD e os Data Centers no Brasil é que a LGPD exige a proteção de dados pessoais de seus clientes e funcionário por parte das empresas e organizações e os Data Centers se responsabilizam para garantir que os dados estejam armazenados de forma segura e confiável.
+
+
+Formatos de arquivos de dados proprietários e abertos
+   - Os formatos de arquivos de dados podem ser proprietários ou abertos. Os proprietários são aqueles que pertencem a a uma empresa ou a uma empresa específica, ao passo que os formatos abertos são aqueles livres para serem utilizados e desenvolvidos por qualquer pessoa ou organização. 
+
+ Forneça exemplos de formatos
+    - um exemplo de formato de arquivo de dado proprietário é o formato .docx usado pelo Microsoft Word. Um exemplo de formato de arquivo aberto é o formato .csv usadopara armazenar dados em formato de tabela. 
+
+ Discuta as implicações relacionadas a dados públicos
+    - Os dados públicos podem ser disponibilizados em diferentes formatos. A escolha do formato adequado dependerá do objetivo e do público-alvo da informação. No entanto, é importante garantir que os dados sejam disponibilizadosde forma acessível e transparentes, sem restrições desnecessárias. 
+     Uma das implicações mais importantes relacionadas a dados públicos é a necessidade de garantir a privacidade e a proteção de dados pessoais. 
