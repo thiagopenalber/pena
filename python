@@ -1,0 +1,31 @@
+Utilizando a linguagem de programação Python, implemente um ou mais códigos de
+exemplo dos seguintes elementos:
+ # – Uma estrutura de repetição
+     print("Try programiz.pro") 
+nome = input (' Insira um nome ')
+while nome:
+    input (' Insira um nome ')
+  Try programiz.pro
+ Insira um nome Paula
+ Insira um nome Thiago
+ Insira um nome Mario
+ Insira um nome Lira
+ Insira um nome Ruben
+ Insira um nome Marcia
+https://www.programiz.com/python-programming/online-compiler/
+
+  - Uma estrutura de tomada de decisão:
+Em Python, você pode usar várias estruturas de tomada de decisão para controlar o fluxo do seu programa. As estruturas mais comuns são if, elif (abreviação de "else if") e else. Aqui está um exemplo básico:
+
+python
+Copy code
+# Definindo uma variável
+idade = 18
+
+# Verificando a idade
+if idade < 18:
+    print("Você é menor de idade.")
+elif idade == 18:
+    print("Você acabou de completar 18 anos!")
+else:
+    print("Você é maior de idade.")
