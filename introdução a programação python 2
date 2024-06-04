@@ -1,0 +1,34 @@
+Função para calcular a soma e a média de uma lista de números:
+
+def calcular_soma_media(lista):
+    soma = sum(lista)
+    media = soma / len(lista)
+    return soma, media
+
+# Exemplo de uso
+numeros = [1, 2, 3, 4]
+soma, media = calcular_soma_media(numeros)
+print("Soma:", soma)
+print("Média:", media)
+
+Função para substituir ocorrências de uma palavra por outra em uma lista de palavras:
+
+def substituir_palavra(lista, palavra_antiga, palavra_nova):
+    return [palavra_nova if palavra == palavra_antiga else palavra for palavra in lista]
+
+# Exemplo de uso
+lista_palavras = ["banana", "morango", "limão", "morango"]
+palavra_antiga = "morango"
+palavra_nova = "maçã"
+nova_lista = substituir_palavra(lista_palavras, palavra_antiga, palavra_nova)
+print("Lista alterada:", nova_lista)
+
+Função para gerar um triângulo de asteriscos para o número de linhas informado:
+
+def imprimir_triangulo(num_linhas):
+    for i in range(1, num_linhas + 1):
+        print("*" * i)
+
+# Exemplo de uso
+num_linhas = 4
+imprimir_triangulo(num_linhas)
