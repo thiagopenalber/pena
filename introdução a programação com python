@@ -1,0 +1,20 @@
+Um Ambiente de Desenvolvimento Integrado (IDE) é um software que oferece ferramentas abrangentes para desenvolvedores de software. Ele geralmente inclui um editor de texto avançado com recursos específicos para programação, como realce de sintaxe, formatação automática de código, sugestões de código, entre outros.
+
+Além do editor de texto, uma IDE normalmente inclui um conjunto de ferramentas integradas para facilitar o desenvolvimento de software, como:
+
+Depurador: Permite aos desenvolvedores identificar e corrigir erros no código.
+
+Compilador/Interpretador: Alguns IDEs incluem ferramentas para compilar ou interpretar o código diretamente do ambiente de desenvolvimento.
+
+Gestão de Projetos: Oferece recursos para criar, gerenciar e organizar projetos de software.
+
+Ferramentas de versionamento: Integração com sistemas de controle de versão, como Git, para gerenciar o histórico de alterações no código.
+
+Ambiente de Execução e Testes: Algumas IDEs permitem executar e testar o código diretamente no ambiente de desenvolvimento.
+
+Plugins e Extensões: Muitas IDEs suportam plugins e extensões que adicionam funcionalidades extras, permitindo personalizar o ambiente de acordo com as necessidades do desenvolvedor.
+
+Exemplos populares de IDEs incluem o Visual Studio (Microsoft), IntelliJ IDEA (JetBrains), Eclipse, PyCharm (para Python, também da JetBrains), Visual Studio Code (Microsoft), entre outros. Essas ferramentas são amplamente utilizadas por desenvolvedores de software em uma variedade de linguagens de programação e plataformas.
+
+
+Você
